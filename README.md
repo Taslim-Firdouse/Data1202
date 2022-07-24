@@ -3,13 +3,12 @@ Understanding SQL Queries- This project will help students to understand the use
 Getting Started
   Prequisities- Before started this project you need to have MySQL installed to run the queries and Microsoft Word to read the document.
   Installing- Please follow the below stepwise process for installing MySQL.
-  Step 1: Extract the Folder
-  Step2: Run the Windows Batch File "MYSQL"
-  Step3: Choose Option 1 to start the server
-  Step4: Choose Option 3 to start MSQL workbench
-  Step5: Create a connection using the following
-  user = "root"
-  port = "51211"
+  1) : Extract the Folder
+  2) : Run the Windows Batch File "MYSQL"
+  3) : Choose Option 1 to start the server
+  4) : Choose Option 3 to start MSQL workbench
+  5) : Create a connection using the following
+  6)  user = "root", port = "51211"
 Running the Tests- There are two ways of running the test: 1) Query->Execute Current Statement 2) Click on the Yellow Zigzag symbol.
   Breakdown of Test- There are two tests in this project as mentioned below
   1) To determine if the average global sale was higher before 2010 or after 2010.
